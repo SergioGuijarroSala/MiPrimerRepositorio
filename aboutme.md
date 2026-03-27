@@ -6,3 +6,6 @@ A la espera de nuevos proyectos a futuro.
 # Imagen no personal
 
 ![MyFace](/img/Screenshot_1.png "Tecnology")
+
+# Segunda imagen
+![IMG](/img/Screenshot_2.png "Tech2")
